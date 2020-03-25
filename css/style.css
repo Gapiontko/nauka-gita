@@ -13,3 +13,8 @@ body {
   display: block;
   text-align: center;
 }
+.song-text {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
